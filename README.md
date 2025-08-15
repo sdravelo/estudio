@@ -1,1 +1,2 @@
-# estudio
+# Ravelo Roster
+Proyecto inicial
